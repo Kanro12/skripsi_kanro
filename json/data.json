@@ -1,0 +1,78 @@
+{
+    "polsek": [
+      {
+        "nama": "Polsek Metro Penjaringan",
+        "alamat": "Jl. Pluit Selatan Raya No.5A, RT.1/RW.10, Pluit, Kec. Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14450",
+        "telepon": "(021) 6693773",
+        "website" : "https://www.instagram.com/polsekmetropenjaringan/",
+        "gambar": "gambar/penjaringan.jpg"
+      },
+      {
+        "nama": "Polsek Kawasan Kalibaru",
+        "alamat": "VWX9+FG7, Jl. Pelabuhan Kalibaru, RT.2/RW.8, Kali Baru, Kec. Cilincing, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14110",
+        "telepon": "(021) 6693773",
+        "website": "https://metro.polri.go.id",
+        "sosmed": "",
+        "gambar": "gambar/polsek kalibaru.jpg"
+      },
+      {
+        "nama": "Polsek Pademangan",
+        "alamat": "Jl. GOR Pademangan 3, Pademangan Barat, Pademangan, RT.12/RW.12, Pademangan Bar., Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14420",
+        "telepon": "(021) 6415152", 
+        "website": "http://www.polresmetrojakut.com",
+        "sosmed": "@polsekpademangan",
+        "gambar": "gambar/polsek padamangan.jpg"
+      },
+      {
+        "nama": "Polsek Kelapa Gading",
+        "alamat": "Jl. Raya Kelapa Nias, RT.2/RW.17, Pegangsaan Dua, Kec. Klp. Gading, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14250",
+        "telepon": "089526450524",
+        "website": "https://polri.go.id/",
+        "sosmed": "https://www.instagram.com/polsek_kelapagading/?hl=id",
+        "gambar": "gambar/gambar kepolisian kelapa gading.jpg"
+      },
+      {
+        "nama": "Polsek Tanjung Priok",
+        "alamat": "Jl. Gorontalo Raya No.1, RT.12/RW.1, Sungai Bambu, Kec. Tj. Priok, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14330",
+        "telepon": "02143931680",
+        "wa": "089636817296",
+        "website": "http://www.polresmetrojakut.com",
+        "sosmed": "@polsek_tanjung_priok",
+        "gambar": "gambar/polsek tanjung priok.jpg"
+      },
+      {
+        "nama": "Polsek Koja",
+        "alamat": "Jl. Bhayangkara Tugu No.9, RT.10/RW.1, Tugu Utara, Kec. Koja, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14260",
+        "telepon": "02143931100",
+        "website": "https://www.humas.polri.go.id/category/satwil/polda-metro-jaya/polres-jakarta-utara/",
+        "sosmed": "@polsek_koja",
+        "gambar": "gambar/polsek koja.jpg"
+      },
+      {
+        "nama": "Polsek Cilincing",
+        "alamat": "Jl. Sungai Landak, Cilincing, RT.10/RW.8, Cilincing, Kec. Cilincing, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14120",
+        "telepon": "(021) 4404640",
+        "website": "http://www.polresmetrojakut.com",
+        "sosmed": "@polsek_cilincing_humas",
+        "gambar": "gambar/polsek clincing.jpg"
+      },
+      {
+        "nama": "Polres Pelabuhan Tanjung Priok",
+        "alamat": "Jl. Pelabuhan Nusantara II No.1, Tj. Priok, Kec. Tj. Priok, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14310",
+        "telepon": "02143932424",
+        "website": "https://metro.polri.go.id",
+        "sosmed": "",
+        "gambar": "gambar/polsek pelabuhan tanjung priok.jpg"
+      },
+      {
+        "nama": "Polres Metro Jakarta Utara",
+        "alamat": "Jl. Yos Sudarso No.1, RT.1/RW.12, Rawabadak Utara, Kec. Koja, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14230",
+        "telepon": "02143931017",
+        "sat_reskrim": "08118569696",
+        "website": "http://www.polresmetrojakut.com",
+        "sosmed": "https://instagram.com/polres_metro_jakarta_utara/",
+        "gambar": "gambar/polsek jakut.jpg"
+      }
+    ]
+  }
+  
