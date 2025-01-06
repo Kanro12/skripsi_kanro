@@ -5,7 +5,7 @@ firebase-admin
 statsmodels
 matplotlib
 scikit-learn
-torch
+torch>=1.10.0
 streamlit
 pandas
 numpy
