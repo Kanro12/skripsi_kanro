@@ -4,3 +4,4 @@ setuptools
 firebase-admin
 statsmodels
 matplotlib
+scikit-learn
