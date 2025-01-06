@@ -2,3 +2,4 @@ pyrebase4
 gcloud
 setuptools
 firebase-admin
+statsmodels
