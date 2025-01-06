@@ -6,3 +6,4 @@ statsmodels
 matplotlib
 scikit-learn
 torch
+pip install -r requirements.txt
