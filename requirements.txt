@@ -5,4 +5,4 @@ firebase-admin
 statsmodels
 matplotlib
 scikit-learn
-pip install torch
+torch
