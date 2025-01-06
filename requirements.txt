@@ -1,3 +1,4 @@
-pip install pyrebase4
-pip install gcloud
-pip install setuptools
+pyrebase4
+gcloud
+setuptools
+firebase-admin
