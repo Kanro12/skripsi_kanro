@@ -3,3 +3,4 @@ gcloud
 setuptools
 firebase-admin
 statsmodels
+matplotlib
