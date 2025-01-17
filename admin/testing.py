@@ -181,9 +181,15 @@ def main():
                         })
                         st.table(mse_mae_data_transformer)
 
-                        # Penjelasan Error Metrics
-                        st.write("Perhitungan Error Metrics: Setelah prediksi dilakukan, MSE dan MAE dihitung untuk kedua model (Triple Exponential Smoothing dan Transformer) dan hasilnya akan ditampilkan pada pengguna. "
-                                 "Jika nilai MSE atau MAE rendah, ini berarti model lebih akurat. Jika lebih tinggi, itu berarti model perlu ditingkatkan atau data perlu dianalisis lebih lanjut untuk memahami apa yang menyebabkan kesalahan besar.")
+                        # Penjelasan Model Terbaik
+                        st.subheader("Model Terbaik Berdasarkan MSE dan MAE")
+                        if mse_transformer < mse_smoothing and mae_transformer < mae_smoothing:
+                            st.success("Model Transformer memiliki performa terbaik berdasarkan nilai MSE dan MAE.")
+                        elif mse_smoothing < mse_transformer and mae_smoothing < mae_transformer:
+                            st.success("Model Triple Exponential Smoothing memiliki performa terbaik berdasarkan nilai MSE dan MAE.")
+                        else:
+                            st.warning("Kedua model memiliki keunggulan pada metrik tertentu. Analisis lebih lanjut diperlukan.")
+
         except Exception as e:
             st.error(f"Terjadi kesalahan saat memproses file: {e}")
 
